@@ -1,5 +1,11 @@
+gmail activate power mode chrome extension wip
 
-# GmailJS Node boilerplate
+
+
+
+
+
+# Forked from GmailJS Node boilerplate
 
 This repo contains sample code to get a WebExtensions-based
 browser-extension using
